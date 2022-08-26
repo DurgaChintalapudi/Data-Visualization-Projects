@@ -1,12 +1,12 @@
 <h1>E Commerce Sales Tracking Dashboard</h1>
 
 This dashboard is used to analyze the sales trends over different seasons, categories, regions across the United States.
-
+Please access the dashboard here - https://public.tableau.com/shared/DGTFTR3BY?:display_count=n&:origin=viz_share_link 
 
 <img width="999" alt="image" src="https://user-images.githubusercontent.com/105465968/186945511-bccd5521-9fd1-4f8f-9821-5b3e190169f6.png">
 
 
-Inferences from the Data:
+<b>Inferences from the Data:</b>
 1. New York, LA and Seattle cities lead in the number of purchases made.
 2. Most of the shipping method adopted is by the standard class.
 3. West region leads in the sales
