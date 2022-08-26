@@ -2,6 +2,10 @@
 
 This dashboard is used to analyze the sales trends over different seasons, categories, regions across the United States.
 
+
+<img width="999" alt="image" src="https://user-images.githubusercontent.com/105465968/186945511-bccd5521-9fd1-4f8f-9821-5b3e190169f6.png">
+
+
 Inferences from the Data:
 1. New York, LA and Seattle cities lead in the number of purchases made.
 2. Most of the shipping method adopted is by the standard class.
@@ -14,8 +18,4 @@ Inferences from the Data:
 9. 733,215 - Total Sales
 10. 37,873 - Total Products Sold
 11. The average size of Shopping cart per sales seems to be around 3 products
-
-
-
-<img width="999" alt="image" src="https://user-images.githubusercontent.com/105465968/186945511-bccd5521-9fd1-4f8f-9821-5b3e190169f6.png">
 
